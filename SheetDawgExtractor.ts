@@ -1,6 +1,7 @@
 // R4WD4WG on GitHub
 
 // Office Scripts for Excel
+// Change extension to .osts if this does not work with Microsoft Excel.
 
 // This script is used to collect data from multiple worksheets in an Excel workbook and write the data to a new worksheet.
 // The script is designed to be run from the Excel UI, but can also be run from the command line using the Office Scripts CLI tool.
