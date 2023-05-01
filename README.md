@@ -1,6 +1,8 @@
 # Excel_SheetDawgExtractor
-# MIT License
-# Author - R4WD4WG, 05/01/2023
+
+MIT License
+
+Author - R4WD4WG, 05/01/2023
 
 Office Script file that will look for sheets with a similar naming pattern & then look for corresponding values (as a lookup).
 This script will output to a new sheet at the end of the worksheet.
