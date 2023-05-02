@@ -1,18 +1,27 @@
-# Excel_SheetDawgExtractor
+# Excel SheetDawgExtractor
 
-MIT License
+An open-source TypeScript project for Microsoft Excel 365 that extracts data from sheets with similar naming patterns and outputs the results to a new sheet.
 
-Author - R4WD4WG, 05/01/2023
+## License
 
-Office Script file that will look for sheets with a similar naming pattern & then look for corresponding values (as a lookup).
-This script will output to a new sheet at the end of the worksheet.
+This project is licensed under the MIT License.
 
-How to run in Microsoft Excel 365:
-1. Place this file into: Documents --> "Office Scripts" (Create a folder if this doesn't already exist)
-2. Launch Microsoft Excel
-3. At the top, find the "Automate" ribbon
-4. Hit "New Script" to the left hand side of this top ribbon
+## Author
 
-The script should appear. If not, copy & paste the content into a new script within Excel.
+R4WD4WG, 05/01/2023
 
-Change cell references, page references, etc to fit your own needs. Can scale to any size depending on computing power.
+## Features
+
+- Look for sheets with similar naming patterns
+- Perform lookups for corresponding values
+- Output results to a new sheet
+
+## Installation & Usage
+
+1. Save the Office Script file to: `Documents/Office Scripts` (create the folder if it doesn't exist).
+2. Launch Microsoft Excel 365.
+3. Open the "Automate" ribbon at the top.
+4. Click "New Script" on the left side of the ribbon.
+5. The script should appear. If not, copy & paste the content into a new script within Excel.
+
+Customize cell references, sheet names, etc., to fit your needs. The script can scale to any size depending on computing power.
